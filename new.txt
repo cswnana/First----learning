@@ -8,3 +8,10 @@ http://youngxhui.github.io/2016/05/03/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95
 创建第一个分支。
 学习网址：
 http://youngxhui.github.io/2016/05/13/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B(%E4%BA%8C)/
+
+第三个内容的学习：
+库的权限
+分支--Git中的一个核心概念，整个Github的流量基于它。初步理解--发散思维
+
+学习网址：
+http://youngxhui.github.io/2016/05/15/GitHub-for-windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89/
